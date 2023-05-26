@@ -16,10 +16,10 @@
 
 # 3. Data Processing
    # 3.1 Selective Search
-      ![Screenshot (88)](https://github.com/NIkhil123098/Sketch-and-Algo-to-Web-Translation/assets/61054037/ca7bff66-9824-4183-960f-333ce9e2680d)
+      ![Screenshot (88)](https://github.com/NIkhil123098/Sketch-and-Algo-to-Web-Translation/assets/61054037/916b728a-be73-4977-80fb-5266efbcbeae)
    
    # 3.2 Non Maxima Suppression
-      ![Screenshot (89)](https://github.com/NIkhil123098/Sketch-and-Algo-to-Web-Translation/assets/61054037/7f1173d6-0f35-4f80-8bc2-45e78a4e0044)
+      ![Screenshot (89)](https://github.com/NIkhil123098/Sketch-and-Algo-to-Web-Translation/assets/61054037/ca1930e2-40fb-47c2-bfa7-2dc547b813d3)
 
 # 4. Sketched Images Prediction
 ![Screenshot (90)](https://github.com/NIkhil123098/Sketch-and-Algo-to-Web-Translation/assets/61054037/c7977e63-cd74-4564-8913-3ed992a6eb93)
