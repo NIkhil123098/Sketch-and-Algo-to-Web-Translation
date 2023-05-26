@@ -1,5 +1,12 @@
 # Sketch-and-Algo-to-Web-Translation
 
+# Rough Sketch to Interface before NLP
+![Screenshot (80)](https://github.com/NIkhil123098/Sketch-and-Algo-to-Web-Translation/assets/61054037/50472141-ae78-4030-be8e-5218f631985a)
+
+# Rough Interface to Functionality Interface after NLP(WebGPT)
+![Screenshot (81)](https://github.com/NIkhil123098/Sketch-and-Algo-to-Web-Translation/assets/61054037/6ba58642-f36b-4706-88b6-b1795151d294)
+
+
 # SKWeb Software 
  1) Authentication
  2) Image Upload
